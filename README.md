@@ -1,7 +1,6 @@
 - 👋 Hi, Ich bin  @Programmier-Freund
 - 👀 Hier findet du die Beispielaufgaben und den Programmiercode aus den Videos!
 - 🌱 Hauptsächlich findest du Java oder Python Code 
-- 💞️
 - 📫 Hinterlass gerne einen Kommentar!
 
 <!---
